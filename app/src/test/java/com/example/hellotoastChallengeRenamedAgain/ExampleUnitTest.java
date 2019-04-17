@@ -1,4 +1,4 @@
-package com.example.hellotoast;
+package com.example.hellotoastChallengeRenamedAgain;
 
 import org.junit.Test;
 

@@ -1,11 +1,11 @@
-package com.example.hellotoast;
+package com.example.hellotoastChallengeRenamedAgain;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
-import com.example.hellotoast.R;
+import com.example.hellotoastChallengeRenamedAgain.R;
 
 public class MainActivity extends AppCompatActivity {
     private int mCount;
