@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hellotoastChallenge</string>
+    <string name="_0">0</string>
+    <string name="button">Button</string>
+    <string name="toast">Toast</string>
+    <string name="toast_clicked">Hello Toast!</string>
+</resources>
